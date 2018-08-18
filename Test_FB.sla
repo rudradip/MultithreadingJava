@@ -1,0 +1,61 @@
+{
+    "class_id": "com-snaplogic-snaps-facebook-facebookoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SnapLogicCertificationOrg"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Test_FB"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "sym_iv": "RZb29v3iggzdsQ9gcOHyiQ==",
+                "sym_key": "mFzmUSB0rlklGSILdOwuUhEl2XsDUS9bAwB8EGw5EkXSPTg0E6+gXodH8z6gmgiE0TxQ7OqLbU8a/KOsNZ6sAykRwiWW3q+WP7lnbKXoy5Z/DQ7VecDL9seNJgjAsdOeYXCyaeKuP/799AIfsBMS6r+Et1SuhJp9Ap2m1DuwvvIuNHjONKOranDNHYjYXeppOhE6Z3FyNiAlWWmTEkPfUGrQkcVKnJwSgojGcpPoewzv2tFXdGTMHiCd+2U2Ff2KG0VENl+DPAVD2/0QMo/yqEphd2KCSyn77nXLiYGJ9aSAe+ldpDR8zjzqaEg/WQjKhjxzdEz8DlWljjZ2mCCMfA==",
+                "value": "DtMo1QPF3uY0k88yugYmZ6oxeopYWJjlwQ1dKfYfybtdsRrOy+SD7PabfKYczAuhoNEY0Xkw5k0CgVo6yunaWRAqAxA/+PJYqP9KTnpZScd8nEOwTiNTuUPBeGdg4U+cpzBvZq/B1YbusrR7g4KpXxJe2NQZzcjtj3AJJB2cdMpUAlXv8fpj24WH7o5xKru9zUWR4KBpNoW61fXdWG5Sc5qjgEChoi6mStp8TXisxQ/pEAyvvEHdLk4dkAhEbflV"
+            },
+            "access_token_expiration": {
+                "key": "",
+                "value": "1529137496"
+            },
+            "auth_endpoint": {
+                "value": "https://graph.facebook.com/oauth/authorize"
+            },
+            "auth_endpoint_config": {
+                "value": {
+                    "scope": {
+                        "value": "email,public_profile,read_insights,manage_pages"
+                    }
+                }
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": false
+            },
+            "client_id": {
+                "value": "250009288491111"
+            },
+            "client_secret": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "value": "wCgzztqGfxDCZ3HRIH176s9+TdIBHuXEiKxx3Pjg+q45XzJlSTVFuhR8+WuhF/9fhWbba0ni3HIwKImicr2Cs5I0rkkUxjGLt2/IWNSzeYce8lI7ZlRamMLUWmAe1cF8G+tyobyyD8l5IQJPSg+nmSVi1Kea+V/tIiJfJoOEovBjIggv3DM/Mp/8TQg7Z1mLRhl4Zv2S+00Tsr/p5heVKH09kaTjSe+mKlyg3dASUhzmAMhVEZITsWd6gUAze3H8Eu+I2BDcPzivwU4whBO8n4NOltE320EzI1W74E9TTL4LZO9R4vGnd94wlGpvFXjc78Aqiwyy8TI3M8V8Z2evHQ=="
+            },
+            "refresh": {
+                "value": null
+            },
+            "token_endpoint": {
+                "value": "https://graph.facebook.com/oauth/access_token"
+            }
+        },
+        "view_serial": 100
+    }
+}
