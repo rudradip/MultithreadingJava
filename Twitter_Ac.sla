@@ -1,0 +1,56 @@
+{
+    "class_id": "com-snaplogic-snaps-twitter-twitteroauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SnapLogicCertificationOrg"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "Twitter_Ac"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "access_token_endpoint": {
+                "value": "https://api.twitter.com/oauth/access_token"
+            },
+            "auth_endpoint": {},
+            "authorize": {
+                "value": "/api/1/rest/admin/oauth/login/8af79f0c-7af1-4d52-9714-045673910d6c?oauth_callback_host=https://elastic.snaplogic.com"
+            },
+            "authorize_endpoint": {
+                "value": "https://api.twitter.com/oauth/authorize"
+            },
+            "client_id": {
+                "value": ""
+            },
+            "client_secret": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "sym_iv": "z0BZgF7sfZ+BvjKmgiASnA==",
+                "sym_key": "IWN4rVyj9FdqTNzJE9F3c/EWOIRY9KHZg36NALIyr3mO56aHa+ZFVv+2RmEwSmX8KPueG6JXV5sHIf0p5mzs04FqhxgwdeIGowoVoQ4UjzWWvVzSs5cZTMy8iOIWdbp5HuCNSLUQo2H3A8B7sgMixaTXbzpk4vKkayHuN2oeqc8+eLSpJ4E4jBA3IoH29y7sf141dTpbC65mu3RTThmtNKqX+4xXHWzEPl0aXCGJia5fAcg11bgN+Nj0qqiwU+4bGO2EZHMVAtUS36p3V3ug4cCs3P2eoAeQXwQjlHngvIQm720xCLV7GWJT01aATBvcR+I2vs4T8XMlxi8UsxXA1g==",
+                "value": "kBwLT/1nEbiZuH1/SKmuXw=="
+            },
+            "oauth_token": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "value": "ksd7pbfm3qIXU+aUutEIU+QX5KyGK88jxDZq4DJJ22mfkanMlndnglNodv57nh8fMN7IhrDMUcCJ+rnVb9w+d2mu685JHeGaEAZCt+48dXs4zfbdtd4tOX5OMEAGAFJLmDXHpGIoKwh6xu9vLSCXd7qRgzMta5Hh1zgiMios70PXnK16KpTMAhNbm++w7oQ05C5vGNNM3q5apBM14fyjprTc7Q0gnwg9sDX5tLQVpytOfzpXGXtMBSabN9QZ8S0WEs60kWbc+fqwqi7e412cmsTMRnu3lJ9VC/oU6CZr2b8viWHVy5NUL3kChhJuQt9OTVcpamVNX1b2NNUdIeP5yw=="
+            },
+            "oauth_token_secret": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "value": "KeAWlwET88tKmBUi47NpW7OCCpUa3T9z+ekFsxPMjA0HJODQy10CODepWAm1pSjoBXiHJ+iz+cup+VxVx1Uzg04TFpMlzsqW04eyvgzGVdR5Hfwib3JwqmKzo99qufHgTx7anLWqQMI+3RGmfdnQ135xHaWeOWO0pj5UzY9yz3REnCq+0nZWEFwhHtVEm0skYyS8jlQBvKZMnYcgtGlQsUhARQp/b0BnQnLXprgVcMVtxNn4z1ySGr5wEnfgYbkesWOTrMyzevjYPZSmnZJYmsxsMdCA5Qm3PzwBUF8jm1lrS+DmqYC32cX8zOnwO1RT63nC7m1pNi+LAAIg8Vf9eA=="
+            },
+            "request_token_endpoint": {
+                "value": "https://api.twitter.com/oauth/request_token"
+            },
+            "timeout": {
+                "value": null
+            }
+        },
+        "view_serial": 100
+    }
+}
