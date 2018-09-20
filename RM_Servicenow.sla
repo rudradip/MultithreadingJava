@@ -1,0 +1,31 @@
+{
+    "class_id": "com-snaplogic-snaps-servicenow-servicenowaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "SnapLogicCertificationOrg"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "RM_Servicenow"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "instance": {
+                "value": "dev30132"
+            },
+            "password": {
+                "fp": "4c26cf1c7e75adee77fd5ded4985f4b7327771737e14ccba901d4aa00789f48a",
+                "key": "account-cloud-managed-58a2e80280b282478c4b189f-2017-02-14T11:21:16-599372",
+                "value": "y92wxFHE2FoZ4P8pDwN041jP5A5u5Ykm8WXekc8UVR1P8JYeZilgglNgHjXL4CZL53lZez2Yp1WifgAeWk5YeMv6OAmw7iZJNa3zvrY1FvU7kIt0Ao5CTP8EWvraGex7esInJtTSc+RPieo6KKAYzmCGMF0Ys4b9XxIf+gB6u8gHWWXS40KyRpBD6BNh6lyGTmETEIkWfh3t1yBK22dXRiKpPLmU5UJSgeUFx9QdkhRVlKwvsoyOsJNz4Pwk5qEsSUNQrE7z4z8PvBKdijeUckebd82n08xGFoffO1I5+wCWNa8wrr+JEmYxYwKy2Q092P511ol3a/xe9qDetjle4w=="
+            },
+            "username": {
+                "value": "admin"
+            }
+        },
+        "view_serial": 100
+    }
+}

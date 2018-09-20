@@ -1,0 +1,26 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Scenario1_ServiceNow_Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": true,
+        "job_type": "regular",
+        "llfeed_token": "JgYEgGUbnAsmRTNRBo14Jgqqt8YAwNGm",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_parameters": {
+            "caller_id": "David Dan",
+            "short_description": "Test_Desc"
+        },
+        "pipeline_path": "Scenario1_ServiceNow",
+        "snaplex_path": "Cloud"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}

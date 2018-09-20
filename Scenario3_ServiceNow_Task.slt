@@ -1,0 +1,72 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Scenario3_ServiceNow_Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "execution_timeout": null,
+        "include_external_urls": false,
+        "job_type": "regular",
+        "llfeed_token": "swSCjaxaYID0o0bKGAGWrRvox1RSTjzn",
+        "max_failures": 10,
+        "max_in_flight": 200,
+        "notification": {
+            "recipients": null
+        },
+        "pipeline_path": "Scenario3_ServiceNow",
+        "snaplex_path": "Cloud"
+    },
+    "schedule": {
+        "repeat": {
+            "blackout_dates": [],
+            "by": "minutes",
+            "cron": {
+                "day": "*",
+                "day_of_week": "*",
+                "hour": "*",
+                "minute": "*",
+                "month": "*"
+            },
+            "ends": {
+                "end_date": "2018-03-02",
+                "end_time": "18:00:00",
+                "occurrences": null,
+                "when": "on"
+            },
+            "every": 10,
+            "on": {
+                "day": []
+            }
+        },
+        "start_date": "2018-03-02",
+        "start_time": "16:00:00",
+        "time_zone": "Asia/Kolkata"
+    },
+    "trigger": {
+        "repeat": {
+            "blackout_dates": [],
+            "by": "minutes",
+            "cron": {
+                "day": "*",
+                "day_of_week": "*",
+                "hour": "*",
+                "minute": "*",
+                "month": "*"
+            },
+            "ends": {
+                "end_date": "2018-03-02",
+                "end_time": "18:00:00",
+                "occurrences": null,
+                "when": "on"
+            },
+            "every": 10,
+            "on": {
+                "day": []
+            }
+        },
+        "start_date": "2018-03-02",
+        "start_time": "16:00:00",
+        "time_zone": "Asia/Kolkata"
+    },
+    "trigger_type": "ScheduleTrigger"
+}
